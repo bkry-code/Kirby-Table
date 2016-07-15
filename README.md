@@ -29,7 +29,7 @@ Like all fields, the Snippetfield must be placed in `/site/fields/` (a placehold
 
 This Table Snippet is not an "out of the box solution" for everyone; it just shows the power of the Snippetfield in combination with Kirby.
 
-Once you have unzipped both the table-assets and the snippetfield-assets, you can navigate to `yourwebsite.com/table`.
+Once you have unzipped both the table-assets and the snippetfield-assets, you can navigate to `http://yourwebsite.com/table`
 
 A (very) rudimentary table is displayed on that, basic, page.
 
@@ -37,7 +37,7 @@ This table can be filled from the panel (just navigate to the `table` page) and 
 
 The page itself is rendered by `/templates/table.php` - examine all those field, change them were you want and get of and running.
 
-Remember; you have to define the **maximum used cells* in your table at least once (in the first visibile cell).
+**Remember**; you have to define the **maximum used cells* in your table at least once (in the first visibile cell). The best thing is to draw the table first (pen and paper...), and count the maximum used cells on a row (_this is the number that must be entered at least in the first cell_).
 
 This number is used to preview the (relative) width of every cell and create the according `colspan` tag.
 
