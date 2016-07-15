@@ -14,7 +14,7 @@
 
 **[Kirby - Table](https://github.com/1n3JgKl9pQ6cUMrW/kirby-table)** is a snippetfield for creating tables (cells) in Kirby.
 
-It uses the **excellent** Kirby Snippetfield from **https://github.com/jenstornell/kirby-snippetfield** as it's core-engine - and can't do without.
+It uses the **excellent** Kirby Snippetfield from **https://github.com/jenstornell/kirby-snippetfield** as it's core-engine - **and can't do without**.
 
 More info about Kirby can be found at **http://getkirby.com**
 
@@ -53,6 +53,6 @@ Rows are automatically created, when a row is "full" and both `thead` and `tfoot
 
 ****
 
-![Kirby - YAKME](kirby_yakme-capture.gif "Kirby - Table")
+![Kirby - Table](kirby_table-capture.gif "Kirby - Table")
 
 *Kirby Table - create your table on the fly.*
